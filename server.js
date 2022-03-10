@@ -6,10 +6,10 @@
 // ==========================================
 
 // Parameters
-var WORLD_SX = 128;
-var WORLD_SY = 128;
-var WORLD_SZ = 32;
-var WORLD_GROUNDHEIGHT = 16;
+var WORLD_SX = 1000;
+var WORLD_SY = 1000;
+var WORLD_SZ = 1000;
+var WORLD_GROUNDHEIGHT = 20;
 var SECONDS_BETWEEN_SAVES = 60;
 var ADMIN_IP = "";
 
